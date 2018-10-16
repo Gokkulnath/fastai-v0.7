@@ -1,4 +1,6 @@
-# fast.ai [![Build Status](https://travis-ci.org/fastai/fastai.svg?branch=master)](https://travis-ci.org/fastai/fastai)
+# fast.ai [![Build Status](https://travis-ci.org/Gokkulnath/fastai-v0.7.svg?branch=master)](https://travis-ci.org/Gokkulnath/fastai-v0.7)
+
+## Only for refernce purpose. Not Maintained Anymore
 The fast.ai deep learning library, lessons, and tutorials.
 
 Copyright 2017 onwards, Jeremy Howard. Licensed under the Apache License, Version 2.0 (the "License"); you may not use this file except in compliance with the License. A copy of the License is provided in the LICENSE file in this repository.

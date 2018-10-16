@@ -1,0 +1,4 @@
+weights/
+*.txt
+*.bak
+fastai/*.md

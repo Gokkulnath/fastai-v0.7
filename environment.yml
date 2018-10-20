@@ -1,4 +1,4 @@
-name: fastai
+name: fastai-v0.7
 channels:
 - fastai
 - pytorch
